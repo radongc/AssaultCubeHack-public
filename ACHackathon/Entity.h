@@ -19,7 +19,7 @@ the spaces in between each var will be correct), the address being pointed to by
 address in the game, and the vTable will be located at it's ingame offset, the vPos will be located at
 its ingame offset etc. meaning aside from creating an entity ptr called localPlayer and assigning it
 the value of the dereferenced LocalPlayer game pointer, nothing else has to be done here and it is ready 
-to be used. ReClass is awesome!!!
+to be used.
 */
 class Entity 
 {
